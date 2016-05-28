@@ -1,0 +1,82 @@
+vim_
+clear
+ssh root@192.168.137.44
+exit
+vim_
+ssh root@192.168.137.44
+clear
+exit
+exit
+cd %wv%
+exit
+vim_
+clear
+ssh root@192.168.137.44
+exit
+exit
+vim_
+ssh root@192.168.137.44
+tmux
+apt
+which apt
+cd /bin
+which ssh
+cd ~
+sdf
+explorer ~
+cssh
+ssh
+echo $PS1
+echo %PS1%
+qyh
+which qyh
+where qyh
+qyh.bat
+python
+ll
+cd Desktop
+ls
+clear
+cd %home%
+cd %wv%
+cmder
+cmder
+echo %wv%
+clear
+cler
+exit
+clear
+exit
+exit
+cd %home%
+cmder
+cd %wv%
+echo %homt%
+echo %home%
+echo %wv%
+vim_
+clear
+cl
+clear
+exit
+vim_
+clear
+cd %home%
+cmder
+cd %wv%
+echo %homt%
+echo %home%
+echo %wv%
+vim_
+clear
+exit
+cl
+make
+git
+which git
+where git
+which git.e
+which git.ext
+which git.exe
+ll
+clear
