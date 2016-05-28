@@ -7,4 +7,17 @@
 @set wv=%home%\.qyh_vim\
 @set ws=E:\Sources
 @set wn=E:\notes
-@call "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\VsDevCmd.bat"
+@prompt $E[1;31;40m$P$E[1;37;40m$$$S$
+
+
+
+@if not exist "%CMDER_ROOT%\CMDER_CD" (
+    @goto ENDCD
+)
+
+@set /p CMDER_CD= < "%CMDER_ROOT%\CMDER_CD"
+@del "%CMDER_ROOT%\CMDER_CD"
+
+@cd /d %CMDER_CD%
+
+:ENDCD
