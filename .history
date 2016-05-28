@@ -271,3 +271,48 @@ exit
 exit
 d:
 c:
+ll
+ls
+exit
+exit
+d:
+c:
+ls -l
+ls
+ls -al
+ll
+ll --time-style=long-iso
+exit
+ls
+ls -al
+ll --time-style=long-iso
+alias.bat 
+ll
+clear
+exit
+ll
+exit
+ll
+exit
+ll
+alias
+exit
+ll
+exit
+cmder /single d:\
+eit
+exit
+exit
+d:
+c:
+qyh
+adb devices
+adb remount
+cd Desktop
+clear
+qyh sc
+qyh tp
+qyh dj
+ls
+ll
+exit

@@ -1,6 +1,7 @@
 e.=explorer .
 gl=git log --oneline --all --graph --decorate  $*
 ls=ls --show-control-chars -F --color $*
+ll=ll -h --time-style=+'%Y_%m_%d %H:%M:%S' $*
 pwd=cd
 clear=cls
 history=cat %CMDER_ROOT%\config\.history
